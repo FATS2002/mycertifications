@@ -1,12 +1,14 @@
 
 ###  Certifications 🧾
+
+### Red Hat Linux ⚡
 ```
 - Red Hat Certified Engineer (RHCE).
 - Red Hat Certified System Administrator.
 - Red Hat Certified Architect (RHCA).
 ```
 
-### Hacker Rank
+### Hacker Rank ⚡
 ```
 SQL Beginner.
 SQL Intermmediate.
@@ -15,7 +17,7 @@ Rest API (Intermediate).
 Problem Solving (Basic).
 
 ```
-### FrontEndMasters
+### FrontEndMasters ⚡
 ```
 FrontEnd Masters- Beginner.
                 - Professional. 
