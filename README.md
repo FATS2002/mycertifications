@@ -4,7 +4,7 @@
 ### Red Hat Linux ⚡
 ```
 - Red Hat Certified Engineer (RHCE).
-- Red Hat Certified System Administrator.
+- Red Hat Certified System Administrator (RHCSA).
 - Red Hat Certified Architect (RHCA).
 ```
 
