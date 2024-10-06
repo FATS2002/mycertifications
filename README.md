@@ -1,7 +1,7 @@
 
 ###  Certifications 🧾
 ```
-- Red Hat Certified Engineer (RHCE) 
+- Red Hat Certified Engineer (RHCE) ˚.🎀༘⋆
 - Red Hat Certified System Administrator
 - Red Hat Certified Architect (RHCA)
 ```
