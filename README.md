@@ -30,4 +30,10 @@ FrontEnd Masters- Beginner.
 ```
 Languages-  Rest API's
 Languages: backend Languages.
+           Functional Javascript
+           Javascript
+           python
+Enterprise and Leadership
+code architecture
+
 ```
