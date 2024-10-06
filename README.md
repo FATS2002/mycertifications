@@ -25,10 +25,9 @@ FrontEnd Masters- Beginner.
                 - computer science.
                 - fullstack to backend.
                 - design to code.
-Languages: backend Languages.
 ``` 
 ### Languages ⚡
 ```
 Languages-  Rest API's
-
+Languages: backend Languages.
 ```
